@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-path"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-path component - init_system"
+
+[lib]
+name = "systemd_path"
+path = "src/lib.rs"
