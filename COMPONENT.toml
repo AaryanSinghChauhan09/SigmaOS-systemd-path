@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-path"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-path component"
+description = "systemd path"
 upstream = []
 
 [contract]
